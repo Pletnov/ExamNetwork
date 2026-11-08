@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Exam.Client/Exam.Client.csproj" />
+  <Project Path="../Exam.Common/Exam.Common.csproj" />
+  <Project Path="../Exam.Server/Exam.Server.csproj" />
+  <Project Path="Exam.INFO.csproj" />
+</Solution>
